@@ -1,0 +1,38 @@
+{
+  "name": "Sipenggune.Net",
+  "short_name": "Sipengguna.net",
+  "start_url": "https://www.sipengguna.net/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-IpiW8lnVh-Y/XQVBqGmcwII/AAAAAAAADp4/8n4QqpzEcQoFewPOBsucBP4SDoh7yp9XgCLcBGAs/s1600/icon_spn.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-p6lY8om1uXw/XQVB6Ej4qgI/AAAAAAAADqA/iWTHdqtHBv0ce6F9vPpHxZ0BAm3wZs2kgCLcBGAs/s1600/icon_spn.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-P6SMh6hKg70/XQVCHQxx5-I/AAAAAAAADqE/h-qP1BTN3l8OMFEiY6bBXv5jm_LhV6dtwCLcBGAs/s1600/icon_spn.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-CAgtmCSkwi0/XQVCbxoKjNI/AAAAAAAADqQ/A8joUZ3_IWk8iahr_aab79gzI0Qu_1FawCLcBGAs/s1600/icon_spn.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-kDJKurCapPk/XQVCowNC3pI/AAAAAAAADqU/yGk4pLaqbu45_xkSHdQxgUHBWZBSX3JnQCLcBGAs/s1600/icon_spn.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-aDidhJBUNr8/XQVCzQpP2pI/AAAAAAAADqc/_Vk2IG0wY307wKE5c3zbt58WHbAjTwYpQCLcBGAs/s1600/icon_spn.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PfYwNd6hTCk/XQVDh3DwrxI/AAAAAAAADqs/Y3if3U_JMr0rcdWSjDvHVqqSJZf-uAasQCLcBGAs/s1600/icon_spn.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
